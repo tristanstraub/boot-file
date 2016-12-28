@@ -1,1 +1,0 @@
-[![Clojars Project](https://img.shields.io/clojars/v/com.tristanstraub/boot-file.svg)](https://clojars.org/com.tristanstraub/boot-file)

@@ -1,0 +1,1 @@
+#+HTML: <a href="https://clojars.org/com.tristanstraub/boot-file"><img src="https://img.shields.io/clojars/v/com.tristanstraub/boot-file.svg"></a>
