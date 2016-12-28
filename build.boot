@@ -15,7 +15,7 @@
        :description "Boot task to insert files into the target."
        :url         "https://github.com/tristanstraub/boot-file"
        :scm         {:url "https://github.com/tristanstraub/boot-file"}
-       :license     {"EPL" "https://opensource.org/licenses/MIT"}})
+       :license     {"MIT" "https://opensource.org/licenses/MIT"}})
 
 (deftask build []
   (comp
