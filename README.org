@@ -1,1 +1,3 @@
 #+HTML: <a href="https://clojars.org/com.tristanstraub/boot-file"><img src="https://img.shields.io/clojars/v/com.tristanstraub/boot-file.svg"></a>
+
+boot file --path=OUTPUT_PATH_IN_TARGET --content 'myproject.core/content-function
